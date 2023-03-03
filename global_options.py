@@ -1,6 +1,8 @@
 """Global options for analysis
 """
 import os
+os.environ["CORENLP_HOME"] = "/Users/Wasti Khan/Desktop/GitHub/Measuring-Corporate-Culture-Using-Machine-Learning-Khan/stanford-corenlp-4.5.2/"
+
 from pathlib import Path
 from typing import Dict, List, Optional, Set
 

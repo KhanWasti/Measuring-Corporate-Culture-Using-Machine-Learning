@@ -5,3 +5,17 @@ data/processed/
 models/
 outputs/
 *.props
+.ipynb_checkpoints/clean_and_train-checkpoint.py
+.ipynb_checkpoints/clean_train_1k-checkpoint.py
+.ipynb_checkpoints/create_dict-checkpoint.py
+.ipynb_checkpoints/global_options-checkpoint.py
+.ipynb_checkpoints/parse-checkpoint.py
+.ipynb_checkpoints/requirements-checkpoint.txt
+.ipynb_checkpoints/score-checkpoint.py
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.virtual_documents/Untitled1.ipynb
+.virtual_documents/Untitled.ipynb
+.ipynb_checkpoints/Untitled1-checkpoint.ipynb
+data/input/.ipynb_checkpoints/document_ids-checkpoint.txt
+data/input/.ipynb_checkpoints/id2firms-checkpoint.csv
+culture/.ipynb_checkpoints/preprocess-checkpoint.py

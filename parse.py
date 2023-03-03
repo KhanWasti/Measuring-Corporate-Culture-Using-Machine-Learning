@@ -2,11 +2,10 @@ import datetime
 import itertools
 import os
 from pathlib import Path
-
-from stanfordnlp.server import CoreNLPClient
-
 import global_options
 from culture import file_util, preprocess
+
+from stanfordnlp.server import CoreNLPClient
 
 
 def process_line(line, lineID):
