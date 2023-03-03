@@ -1,9 +1,14 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .vscode/settings.json
 .DS_Store
+.virtual_documents/
+*/.virtual_documents/*
 __pycache__/
 data/processed/
 models/
 outputs/
+/stanford-corenlp-4.5.2
 *.props
 .ipynb_checkpoints/clean_and_train-checkpoint.py
 .ipynb_checkpoints/clean_train_1k-checkpoint.py
